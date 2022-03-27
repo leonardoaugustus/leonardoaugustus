@@ -1,6 +1,9 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Leonardo Augustus!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoaugustus&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=leonardoaugustus&color=blueviolet" alt="Profile views" /> 
+</p>
+
 <img align="right" width="300em" height="300em" src="https://user-images.githubusercontent.com/62160298/160291319-792c185a-25ce-4344-8482-3f6e34436bd2.gif"/>
 
 - 👨🏻‍💻  I'm currently working at [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/) as a fullStack Developer;
