@@ -8,13 +8,13 @@
 
 <br>
 
--  I'm currently working at [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/) as a fullStack Developer;
+- 👨🏻‍💻  I'm currently working at [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/) as a fullStack Developer;
 
 - 🌱  Programming languages I know **Flutter, Laravel, JavaScript, .Net**;
 
 - 🚀  How to reach me  [unitbox.com.br](https://linktr.ee/unitbox);
 
-- ⚡  Tech enthusiast.
+- ⚡   Tech enthusiast.
 
 <br>
 
