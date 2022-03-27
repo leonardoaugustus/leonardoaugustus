@@ -8,7 +8,7 @@
 
 <br>
 
-- 👨🏻‍💻  I'm currently working at [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/) as a fullStack Developer;
+-  I'm currently working at [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/) as a fullStack Developer;
 
 - 🌱  Programming languages I know **Flutter, Laravel, JavaScript, .Net**;
 
