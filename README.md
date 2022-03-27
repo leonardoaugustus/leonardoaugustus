@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoaugustus&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://user-images.githubusercontent.com/62160298/160291319-792c185a-25ce-4344-8482-3f6e34436bd2.gif"/>
 
-- 👨🏻‍💻  I’m currently working on [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/)
+- 👨🏻‍💻  I'm currently working at [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/) as a fullStack Developer;
 
-- 🌱  Programming languages I know **Flutter, Laravel, JavaScript, .Net**
+- 🌱  Programming languages I know **Flutter, Laravel, JavaScript, .Net**;
 
-- 🚀  How to reach me  [unitbox.com.br](https://linktr.ee/unitbox)
+- 🚀  How to reach me  [unitbox.com.br](https://linktr.ee/unitbox);
 
-- ⚡  Tech enthusiast 
+- ⚡  Tech enthusiast.
 
 <br>
 
@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-<img width="530em" src="" alt="Leonardo's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leonardoaugustus&show_icons=true&theme=nightowl" alt="Leonardo's stats"/>
 </p>
 
 ##
