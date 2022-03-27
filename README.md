@@ -6,6 +6,8 @@
 
 <img align="right" width="300em" height="300em" src="https://user-images.githubusercontent.com/62160298/160291319-792c185a-25ce-4344-8482-3f6e34436bd2.gif"/>
 
+<br>
+
 - 👨🏻‍💻  I'm currently working at [SCServicos](https://github.com/Sc-Servicos-ao-Consumidor/) as a fullStack Developer;
 
 - 🌱  Programming languages I know **Flutter, Laravel, JavaScript, .Net**;
